@@ -1,4 +1,4 @@
-# Capstone-Project
+# Capstone-Module-1
 ## Covid-19 Patients Data
 
 Melalui aplikasi ini, rumah sakit memiliki sistem pendataan pasien Covid-19 yang terintegrasi, sehingga dapat mempermudah dalam mendata pasien.
